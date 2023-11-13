@@ -1,1 +1,2 @@
-# ham-radio-resources
+# amateur-radio-resources
+Large collection of Amateur Radio resources
